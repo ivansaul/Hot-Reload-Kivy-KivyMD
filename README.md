@@ -48,4 +48,4 @@ kivy
     ```
 
 ## Demo
-![Demo](https://i.ibb.co/R4v32SV/demo.gif)
+![Demo](demo.gif)
